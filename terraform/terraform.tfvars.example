@@ -1,0 +1,8 @@
+accessKey = "XXXXXXXXXXXXX44XXX3X"
+secretKey = "8xyXYXyxXYXxxXY3xXXxyxxXXX7XXYXXx6yxXXXX"
+KeyPairName = "pair_name"
+subnetIds = ["subnet-XdbXXXXX", "subnet-YdbXXXXX"]
+vpcId = "vpc-x555555x"
+dnsZoneId = "Z08496051U0AFAMBOS3H3"
+domain = "example.com"
+subDomain = "quest"

@@ -3,8 +3,8 @@ How to run it:
 `git clone https://github.com/oleg-klimin/quest.git`
 2. Switch to **terraform** folder 
 `cd quest/terraform`
-3. Create **terrform.tfvars** file
- `cp terraform.tfvars.exaple terrform.tfvars`
+3. Create **terraform.tfvars** file
+ `cp terraform.tfvars.example terraform.tfvars`
  and fill it using your values of AWS environment
  
  Expected that:
